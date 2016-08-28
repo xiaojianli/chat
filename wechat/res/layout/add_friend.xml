@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<LinearLayout 
+	    android:id="@+id/findLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="15dp"
+	    android:layout_marginRight="15dp"
+	    android:layout_marginTop="50dp"
+	    android:gravity="center_vertical"
+	    >
+	    
+	    <EditText
+	        android:id="@+id/searchEditText" 
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="20"
+	        android:hint="用户名/真实姓名"/>
+	    <TextView 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1"/>
+	    
+	    <ImageButton  
+	        android:id="@+id/searchButton"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/search_friend"/>    
+	</LinearLayout>
+
+	<ListView 
+	    android:id="@+id/searchResultList"
+	    android:layout_marginTop="30dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/findLayout">
+	</ListView>
+</RelativeLayout>

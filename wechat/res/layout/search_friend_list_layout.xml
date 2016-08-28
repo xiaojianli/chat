@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:background="@color/listbackColor">
+    
+    <ImageView
+        android:id="@+id/ImageViewIcon"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/contentDescription"
+        android:background="@drawable/icon"/>
+    
+    
+    <LinearLayout
+        android:id="@+id/infoLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="20"
+        android:orientation="vertical"
+        android:background="@null">
+          
+        
+       <TextView 
+       		android:id="@+id/searchUsername"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:textColor="@android:color/black"
+        	android:textSize="20sp"
+        	android:background="@null"/>
+    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="horizontal"
+	        android:layout_marginTop="8dp"
+	        android:background="@null">
+	        
+	        <TextView
+	            android:id="@+id/searchrealname" 
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:textColor="@android:color/darker_gray"
+	            android:textSize="18sp"
+	            android:background="@null"/>
+	        
+	        <TextView
+	            android:layout_marginLeft="30dp" 
+	            android:id="@+id/searchSexual"
+	            android:layout_marginRight="20dp"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@android:color/darker_gray"
+	            android:textSize="18sp"
+	            android:background="@null"/>
+	    </LinearLayout>
+      </LinearLayout>
+      
+    <Button 
+        android:id="@+id/addFriendButton"
+        android:layout_marginTop="10dp"
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="35dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/add"
+        android:background="@drawable/send_button"/>
+        
+</LinearLayout>

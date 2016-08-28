@@ -1,0 +1,9 @@
+<resources>
+
+	<color name="TabHostTextColor">#00CC00</color>
+	<color name="TabHostTextGrayColor">#999999</color>
+ 	<color name="backgroundColor">#454545</color>
+ 	<color name="listbackColor">#E0E0E0</color>
+ 	<color name="chatwindowtitleColor">#3C3C3C</color>
+ 	<color name="newmessage">#ff7575</color>
+</resources>
