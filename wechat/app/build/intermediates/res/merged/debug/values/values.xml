@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TabHostTextColor">#00CC00</color>
+    <color name="TabHostTextGrayColor">#999999</color>
+    <color name="backgroundColor">#454545</color>
+    <color name="chatwindowtitleColor">#3C3C3C</color>
+    <color name="listbackColor">#E0E0E0</color>
+    <color name="newmessage">#ff7575</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_textsize">15sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="add">添加</string>
+    <string name="app_name">微语</string>
+    <string name="contentDescription">this a contentDescription</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="ActivityInOut" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:background">@android:color/holo_green_light</item>
+		<item name="android:windowAnimationStyle">@style/ActivityInOutAnim</item>
+    </style>
+    <style name="ActivityInOutAnim" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/zoom_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/zoom_out</item>
+       	<item name="android:activityCloseEnterAnimation">@anim/zoom_in</item> 
+        <item name="android:activityCloseExitAnimation">@anim/zoom_out</item> 
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppChatTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:background">@color/backgroundColor</item>
+    </style>
+    <style name="AppChatWindowTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:background">@android:color/holo_blue_bright</item>
+    </style>
+</resources>

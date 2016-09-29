@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/anim/zoom_in.xml"
+    }
+]

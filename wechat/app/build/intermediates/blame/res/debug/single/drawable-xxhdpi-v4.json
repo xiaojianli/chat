@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

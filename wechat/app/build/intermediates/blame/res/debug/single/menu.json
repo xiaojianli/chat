@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/menu/main.xml"
+    }
+]

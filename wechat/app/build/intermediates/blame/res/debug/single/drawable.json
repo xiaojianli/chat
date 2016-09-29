@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/chat_list.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/chat_list.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/send_button.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/send_button.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/search_friend.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/search_friend.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/tab_color.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/tab_color.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/chatwindow_listview.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/chatwindow_listview.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/chat_right.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/chat_right.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/chat_right.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/chat_right.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/send.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/send.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/search_friend.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/search_friend.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/chat_left.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/chat_left.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/tab_weiyu.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/tab_weiyu.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/tab_color.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/tab_color.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/tab_friend.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/tab_friend.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/tab_weiyu.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/tab_weiyu.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/chatwindow_listview.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/chatwindow_listview.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/chat_list.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/chat_list.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/chat_left.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/chat_left.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/send_button.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/send_button.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/send.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/send.xml"
+    },
+    {
+        "merged": "/Users/user/Git/chat/wechat/app/build/intermediates/res/merged/debug/drawable/tab_friend.xml",
+        "source": "/Users/user/Git/chat/wechat/app/src/main/res/drawable/tab_friend.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/Users/user/Documents/AndroidStudioWorkSpace/dynamic-load-apk/DynamicLoadApk/sample/main/wechat/app/src/main/res/drawable/back.xml"
+    }
+]

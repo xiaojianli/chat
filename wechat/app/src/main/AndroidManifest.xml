@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xiaojianli.wechat"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+         >
+        <activity
+            android:name=".login.LoginActivity"
+            android:label="@string/app_name"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:screenOrientation="portrait" 
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.xiaojianli.wechat.register.RegisterActivity"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.xiaojianli.wechat.chat.ChatActivity"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppChatTheme">
+            <intent-filter >
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name="com.xiaojianli.wechat.addfriend.AddFriendActivity"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityInOut">
+            <intent-filter >
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.xiaojianli.wechat.chat.chatWindowActivity"
+            android:launchMode="singleTask"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppChatWindowTheme">
+            <intent-filter >
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name="com.xiaojianli.wechat.chat.friendWindowActivity"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppChatWindowTheme">
+            <intent-filter >
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            
+        </activity>
+        
+    </application>
+
+</manifest>
