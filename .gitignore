@@ -1,0 +1,6 @@
+/chat/build
+/chat/captures
+/chat/local.properties
+/chat/.idea
+/chat/.gradle
+.DS_Store
